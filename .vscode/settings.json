@@ -1,3 +1,6 @@
 {
-    "dotnet.defaultSolution": "LittleFootDatingApp.sln"
+    "dotnet.defaultSolution": "LittleFootDatingApp.sln",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.autoClosingQuotes": "always"
 }
